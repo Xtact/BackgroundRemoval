@@ -32,3 +32,4 @@ jobs:
       run: |
         conda install pytest
         pytest
+/home/adminuser/venv/bin/python -m pip install --upgrade pip
